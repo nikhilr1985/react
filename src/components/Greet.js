@@ -1,5 +1,3 @@
-function Greet() {
-  return <h1>Hello Nikhil !!!</h1>;
-}
+const Greet = () => <h1>Hello Nikhil With ES6 Syntax !!!</h1>;
 
 export default Greet;
